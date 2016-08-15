@@ -34,5 +34,5 @@ var Config = {
         }
     ],
     "lang": "en-us",
-    "theme": ""
+    "theme": "water_night"
 };
